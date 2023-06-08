@@ -1,4 +1,4 @@
-package unupdatednixpkgs
+package nixpkgs
 
 import (
 	"fmt"
